@@ -2,8 +2,9 @@
 Modulr ATM Service Test
 
 The jar provides the implementation for below interface 
-AccountService :    1) Check balance  
-                    2) Withdraw an amount 
+AccountService :    
+-  Check balance  
+-  Withdraw an amount 
 
 AccountServiceImpl that is aware of the following accounts and balances  
 -  Account number 01001, Balance 2738.59  
