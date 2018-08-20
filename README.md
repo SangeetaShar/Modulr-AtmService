@@ -24,7 +24,7 @@ ATMServiceImpl and set it up to use the AccountServiceImpl. This have the follow
              
 Assumptions made
 
-Currency : GBP
-No Limit for ATM notes capacity
-No Thread safety is implemented, intended for single access
+-  Currency : GBP
+-  No Limit for ATM notes capacity
+-  No Thread safety is implemented, intended for single access
 
